@@ -22,5 +22,5 @@ So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-r
 <div class="stats" align="center"> 
 <a href="https://shirumii.xyz"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=shirumii&theme=react](https://github-profile-trophy.vercel.app/?username=shirumii&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
 <a href="https://shirumii.xyz"><img align="center" src="https://github-profile-trophy.vercel.app/?username=shirumii&theme=discord&column=7&no-frame=true"></a><br><br>
-<!--<a href="https://github.com/shirumii"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=shirumii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>-->
+<a href="https://github.com/shirumii"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=shirumii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>
 </div>
