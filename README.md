@@ -21,7 +21,7 @@ So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-r
  <h2> Github Stats </h2>
 <div class="stats" align="center"> 
 <a href="https://github.com/shirumii"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shirumii&show_icons=true&theme=vue-dark" alt="stats"/></a>
-<a href="https://shirumii.xyz"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=falsisdev&theme=react](https://github-profile-trophy.vercel.app/?username=falsisdev&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
-<a href="https://shirumii.xyz"><img align="center" src="https://github-profile-trophy.vercel.app/?username=falsisdev&theme=discord&column=7&no-frame=true"></a><br><br>
+<a href="https://shirumii.xyz"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=shirumii&theme=react](https://github-profile-trophy.vercel.app/?username=shirumii&theme=onedark&column=7)" width="%100" height="150px"/></a><br><br>
+<a href="https://shirumii.xyz"><img align="center" src="https://github-profile-trophy.vercel.app/?username=shirumii&theme=discord&column=7&no-frame=true"></a><br><br>
 <!--<a href="https://github.com/shirumii"><img align="center" width="775" src="https://activity-graph.herokuapp.com/graph?username=shirumii&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"></a>-->
 </div>
