@@ -7,7 +7,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/shirumii"
-    <img src="https://lanyard.cnrad.dev/api/1067057006994788354"/>
+    <img src="(https://lanyard.cnrad.dev/api/1067057006994788354)](https://discord.com/users/1067057006994788354)"/>
      </a>
 </p>
 
