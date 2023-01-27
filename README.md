@@ -1,7 +1,7 @@
 <div class="Introduction" align="center"> 
 <h1>Hi, I'm shirumii <img src="https://raw.githubusercontent.com/barbecue/barbecue/master/media/wave.gif" height="30" weight="30"></h1><br>
 </div>
-<img src="[https://cdn.discordapp.com/attachments/775822548519616562/989798953107210300/20220624_104706.png](https://media.discordapp.net/attachments/1067058976308609035/1068521083906564197/E3ef6TIVcAEiheI.jpg?ht=512)" alt="Banner" align="center">
+<img src="https://media.discordapp.net/attachments/1067058976308609035/1068521083906564197/E3ef6TIVcAEiheI.jpg?ht=512" alt="Banner" align="center">
 <h1> About Me </h1>
 <a href="https://shirumii.xyz"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/1067057006994788354"></a>
 <div class="about-me" align="left">
