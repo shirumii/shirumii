@@ -3,7 +3,7 @@
 </div>
 <img src="https://cdn.discordapp.com/attachments/775822548519616562/989798953107210300/20220624_104706.png" alt="Banner" align="center">
 <h1> About Me </h1>
-<a href="https://falsisdev.ga"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/1067057006994788354"></a>
+<a href="https://shirumii.xyz"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/1067057006994788354"></a>
 <div class="about-me" align="left">
 I'm a <a href="https://en.wikipedia.org/wiki/Front-end_web_development" class="Text-red-500"> Front-end Web Developer</a>!<br>
 So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-red-500" title="Hyper Text Markup Language"> <font color="orange">HTML</font></a>, <a href="https://en.wikipedia.org/wiki/CSS" class="Text-red-500" title="Cascading Style Sheets"> <font color="#1589FF">CSS</font></a> and <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a>!<br>
@@ -16,7 +16,7 @@ So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-r
 </div>
 <div class="social">
  <h2> Social Media </h2> 
- <a href="https://instagram.com/yume_posting"><img src="https://img.shields.io/badge/falsisdev-323330.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://discord.com/users/1067057006994788354"><img src="https://img.shields.io/badge/Falsis%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://github.com/shirumii"><img src="https://img.shields.io/badge/FalsisDev%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+ <a href="https://instagram.com/yume_posting"><img src="https://img.shields.io/badge/shirumii-323330.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://discord.com/users/1067057006994788354"><img src="https://img.shields.io/badge/shirumii%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> <a href="https://github.com/shirumii"><img src="https://img.shields.io/badge/shirumii%20-323330.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
  </div>
  <h2> Github Stats </h2>
 <div class="stats" align="center"> 
