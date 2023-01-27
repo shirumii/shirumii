@@ -7,7 +7,7 @@
 <div class="about-me" align="left">
 I'm a <a href="https://en.wikipedia.org/wiki/Front-end_web_development" class="Text-red-500"> Front-end Web Developer</a>!<br>
 So, I'm interested in <a href="https://en.wikipedia.org/wiki/HTML" class="Text-red-500" title="Hyper Text Markup Language"> <font color="orange">HTML</font></a>, <a href="https://en.wikipedia.org/wiki/CSS" class="Text-red-500" title="Cascading Style Sheets"> <font color="#1589FF">CSS</font></a> and <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript" class="Text-red-500"> <font color="yellow">JavaScript</font></a>!<br>
-<a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/os-Windows%2011-slateblue"></a> <a href="https://discord.com/users/1067057006994788354"><img src="https://img.shields.io/badge/ヴぇしぇ%230001-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/shirumii"><img src="https://komarev.com/ghpvc/?username=shirumii"></a>
+<a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/os-Windows%2010-slateblue"></a> <a href="https://discord.com/users/1067057006994788354"><img src="https://img.shields.io/badge/ヴぇしぇ%230001-5865F2?style=flat&logo=discord&logoColor=white"></a> <a href="https://shirumii.xyz"><img src="https://img.shields.io/badge/Website-D14836?&color=57F287"></a> <a href="https://github.com/shirumii"><img src="https://komarev.com/ghpvc/?username=shirumii"></a>
 </div>
 <h2> Technologies </h2> 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirumii&theme=vue-dark&layout=compact" alt="stats"/>
