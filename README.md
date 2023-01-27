@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align='center'>
+  <b>Hi 👋, I'm veshee</b><br>
+  <a href="https://discord.gg/TkHF7r2wZK">Discord</a> |
+  <a href="https://www.youtube.com/@alrxe">YouTube</a> 
 
-<!--
-**shirumii/shirumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><br>
+  <a href="https://github.com/shirumii"
+    <img src="https://lanyard.cnrad.dev/api/1067057006994788354"/>
+     </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<p align="center">
+    <b>Languages & Frameworks</b>
+    <br>
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>&nbsp;|
+    <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+    <br><br>
+    <b>My Github Stats</b><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alrxe&theme=dark&hide_border=true">
+    <br>
+</p>
